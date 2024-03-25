@@ -1,16 +1,16 @@
-Se você é desenvolvedor back-end e precisa resolver problemas de escalabilidade, precisa lidar com alta complexidade de lógica de negócios, e gerenciar conflitos de acesso a dados em sistemas de alta demanda, esse vídeo é pra você.
+Uma das coisas mais comuns em software é gerar efeitos colaterais como parte da regra de negócio. Por exemplo, mandar um email quando o cliente se cadastra, ou atualizar contadores para um relatório de métricas em tempo real.
 
-⭐ Vou te apresentar hoje o CQRS, que é um padrão de design de software que separa as partes de escrita e leitura dos dados na aplicação, permitindo otimizações independentes e melhor escalabilidade.
+⭐ Veja como usar Eventos para desacoplar efeitos colateriais da lógica principal. Crie uma arquitetura escalável, fácil de dar manutenção, que te permite adicionar novos comportamentos sem alterar código existente.
 
 ### ✅ O QUE VOCÊ VAI APRENDER
 
-- O que é CQRS
-- Commands e Queries, que podem ser otimizados separadamente
-- Usando NestJS e TypeORM
+- Como desacoplar efeitos colaterais da lógica principal
+- Usando Eventos do módulo de CQRS do NestJS
+- Single Responsibility, Open-Closed, e Dependency Inversion no nível da arquitetura da aplicação
 
 ### ✅ VÍDEO
 
-https://youtu.be/KmzabOeDVz8
+https://youtu.be/u2ZYo3oByW4
 
 ### ✅ SIGA-ME NAS REDES
 
